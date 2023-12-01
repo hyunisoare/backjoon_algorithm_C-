@@ -1,0 +1,14 @@
+C:\Users\Hyuni\source\repos\hyunisoare\baekjoon_algorithm_C#\baekjoon_algorithm_C#\obj\Debug\net6.0\baekjoon_algorithm_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyuni\source\repos\hyunisoare\baekjoon_algorithm_C#\baekjoon_algorithm_C#\obj\Debug\net6.0\baekjoon_algorithm_C#.AssemblyInfoInputs.cache
+C:\Users\Hyuni\source\repos\hyunisoare\baekjoon_algorithm_C#\baekjoon_algorithm_C#\obj\Debug\net6.0\baekjoon_algorithm_C#.AssemblyInfo.cs
+C:\Users\Hyuni\source\repos\hyunisoare\baekjoon_algorithm_C#\baekjoon_algorithm_C#\obj\Debug\net6.0\baekjoon_algorithm_C#.csproj.CoreCompileInputs.cache
+C:\Users\Hyuni\source\repos\hyunisoare\baekjoon_algorithm_C#\baekjoon_algorithm_C#\bin\Debug\net6.0\baekjoon_algorithm_C#.exe
+C:\Users\Hyuni\source\repos\hyunisoare\baekjoon_algorithm_C#\baekjoon_algorithm_C#\bin\Debug\net6.0\baekjoon_algorithm_C#.deps.json
+C:\Users\Hyuni\source\repos\hyunisoare\baekjoon_algorithm_C#\baekjoon_algorithm_C#\bin\Debug\net6.0\baekjoon_algorithm_C#.runtimeconfig.json
+C:\Users\Hyuni\source\repos\hyunisoare\baekjoon_algorithm_C#\baekjoon_algorithm_C#\bin\Debug\net6.0\baekjoon_algorithm_C#.dll
+C:\Users\Hyuni\source\repos\hyunisoare\baekjoon_algorithm_C#\baekjoon_algorithm_C#\bin\Debug\net6.0\baekjoon_algorithm_C#.pdb
+C:\Users\Hyuni\source\repos\hyunisoare\baekjoon_algorithm_C#\baekjoon_algorithm_C#\obj\Debug\net6.0\baekjoon_algorithm_C#.dll
+C:\Users\Hyuni\source\repos\hyunisoare\baekjoon_algorithm_C#\baekjoon_algorithm_C#\obj\Debug\net6.0\refint\baekjoon_algorithm_C#.dll
+C:\Users\Hyuni\source\repos\hyunisoare\baekjoon_algorithm_C#\baekjoon_algorithm_C#\obj\Debug\net6.0\baekjoon_algorithm_C#.pdb
+C:\Users\Hyuni\source\repos\hyunisoare\baekjoon_algorithm_C#\baekjoon_algorithm_C#\obj\Debug\net6.0\baekjoon_algorithm_C#.genruntimeconfig.cache
+C:\Users\Hyuni\source\repos\hyunisoare\baekjoon_algorithm_C#\baekjoon_algorithm_C#\obj\Debug\net6.0\ref\baekjoon_algorithm_C#.dll
